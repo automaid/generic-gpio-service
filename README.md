@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/automaid/generic-gpio-service.svg?branch=master)](https://travis-ci.org/automaid/generic-gpio-service)
 [![Greenkeeper badge](https://badges.greenkeeper.io/automaid/generic-gpio-service.svg)](https://greenkeeper.io/)
+[![Known Vulnerabilities](https://snyk.io/test/github/automaid/generic-gpio-service/badge.svg)](https://snyk.io/test/github/automaid/generic-gpio-service)
 
 This Service exposes GPIO Ports over an HTTP Endpoint and allows calling of remote Endpoints from Interrupts.
 
