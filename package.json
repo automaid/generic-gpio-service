@@ -24,9 +24,9 @@
         "bunyan-format": "^0.2.1",
         "js-yaml": "^3.9.0",
         "lodash.debounce": "^4.0.8",
-        "restify": "^5.0.1",
+        "restify": "^6.3.2",
         "tinycolor2": "^1.4.1",
-        "yargs": "^8.0.2"
+        "yargs": "^10.0.3"
     },
     "devDependencies": {
         "eslint": "^4.3.0"
