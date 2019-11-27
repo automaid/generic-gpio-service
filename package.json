@@ -24,7 +24,7 @@
         "bunyan-format": "^0.2.1",
         "js-yaml": "^3.9.0",
         "lodash.debounce": "^4.0.8",
-        "restify": "^6.3.2",
+        "restify": "^8.4.1",
         "tinycolor2": "^1.4.1",
         "yargs": "^10.0.3"
     },
