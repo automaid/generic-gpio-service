@@ -26,7 +26,7 @@
         "lodash.debounce": "^4.0.8",
         "restify": "^6.3.2",
         "tinycolor2": "^1.4.1",
-        "yargs": "^10.0.3"
+        "yargs": "^15.3.0"
     },
     "devDependencies": {
         "eslint": "^4.3.0"
